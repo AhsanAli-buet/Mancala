@@ -4,7 +4,7 @@ Mancala is AI LAB Project of BUET CSE Level-4 term-1. This is developed using ja
 Mancala is a simple strategy game. Game rules are provided [**here**](https://en.wikipedia.org/wiki/Kalah).
 
 In this game, human player plays with AI agent. Mancala is a solved game. So first person move gets the advantage. 
-AI agent makes decision using **Alpha Beta prunning algorithm and heuristics**.
+AI agent makes decision using **Alpha Beta Prunning algorithm and heuristics**.
 
 # Mancala Game Board
 
